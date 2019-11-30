@@ -4,5 +4,5 @@
 
 The links to the datasets are:
 
-horse2zebra : https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/
+horse2zebra : https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/<br>
 edges2shoes :	https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/
